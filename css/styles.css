@@ -27,7 +27,6 @@ input {
     width: 400px;
     height: 45px;
     border: solid 2px #d3d3d380;
-    border
 }
 
 .lb-data .lb-close {
@@ -74,6 +73,7 @@ input {
     }
 }
 
+/* Media Query for lightbox arrows */
 @media (min-width: 1000px) {
     .lb-nav a.lb-next {
         position: relative;
