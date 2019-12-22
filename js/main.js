@@ -18,7 +18,7 @@ $search.on('keyup', function(){
             $('.gallery').children().eq(i).hide();
         } 
     }  
-})
+});
 
 
 
